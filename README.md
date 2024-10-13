@@ -14,3 +14,4 @@ Make sure you have the following dependencies installed:
 - `beautifulsoup4`
 - `fpdf`
 - `google-generativeai`
+- `DejaVuSans.ttf`
