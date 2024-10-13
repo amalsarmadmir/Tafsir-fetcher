@@ -4,7 +4,7 @@ from fpdf import FPDF
 import os
 import google.generativeai as genai
 
-API_KEY = 'AIzaSyBWJ2gmFo8wvemRY5SDeRZcb-WYFrdBGfo'
+API_KEY = ''
 genai.configure(api_key=API_KEY)
 
 def fetch_tafsir(surah, ayah):
